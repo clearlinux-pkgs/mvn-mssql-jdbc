@@ -4,7 +4,7 @@
 #
 Name     : mvn-mssql-jdbc
 Version  : 6.2.1
-Release  : 1
+Release  : 2
 URL      : https://github.com/microsoft/mssql-jdbc/archive/v6.2.1.tar.gz
 Source0  : https://github.com/microsoft/mssql-jdbc/archive/v6.2.1.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/microsoft/sqlserver/mssql-jdbc/6.2.1.jre7/mssql-jdbc-6.2.1.jre7.jar
